@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=us-ascii" />
+
+  <title>Turtle Soup</title>
+</head>
+
+<body>
+  <h1>Turtle Soup</h1>
+
+  <p class="verse" id="first">Beautiful Soup, so rich and green,<br />
+  Waiting in a hot tureen!<br />
+  Who for such dainties would not stoop?<br />
+  Soup of the evening, beautiful Soup!<br />
+  Soup of the evening, beautiful Soup!<br /></p>
+
+  <p class="chorus" id="second">Beau--ootiful Soo--oop!<br />
+  Beau--ootiful Soo--oop!<br />
+  Soo--oop of the e--e--evening,<br />
+  Beautiful, beautiful Soup!<br /></p>
+
+  <p class="verse" id="third">Beautiful Soup! Who cares for fish,<br />
+  Game or any other dish?<br />
+  Who would not give all else for two<br />
+  Pennyworth only of Beautiful Soup?<br />
+  Pennyworth only of beautiful Soup?<br /></p>
+
+  <p class="chorus" id="fourth">Beau--ootiful Soo--oop!<br />
+  Beau--ootiful Soo--oop!<br />
+  Soo--oop of the e--e--evening,<br />
+  Beautiful, beauti--FUL SOUP!<br /></p>
+</body>
+</html>
